@@ -1,2 +1,2 @@
 # Spotify clone
-This is my first project , A clone of spotify home page using HTML and CSS only.
+This is my first project: a clone of Spotify’s home page made entirely with HTML and CSS.
